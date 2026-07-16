@@ -1,1 +1,9 @@
 import "./style.css";
+import "./assets/task-1";
+import "./assets/task-2";
+import "./assets/task-3";
+import "./assets/task-4";
+import "./assets/task-5";
+import "./assets/task-6";
+import "./assets/task-7";
+import "./assets/task-8";
